@@ -16,7 +16,8 @@ public class CardDealer
     {
         //shahmeermuhammad
         Card nineClubs = new Card("Clbs", 9);
-        nineClubs.setSuit("hearts");
+        nineClubs.setSuit("diamonds");
         ////comments
+         nineClubs.setSuit("hearts");
     }
 }
